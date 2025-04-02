@@ -10,6 +10,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
         birthdayText.style.transition = "opacity 0.3s, top 0.3s";
         birthdayText.style.opacity = 1;
-        birthdayText.style.top = "-90px";
+        birthdayText.style.top = "-300px";
     });
 });

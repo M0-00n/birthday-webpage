@@ -196,15 +196,15 @@ body {
 .text, .text2 {
     position: absolute;
     color: whitesmoke;
-    font-family: "Brush Script MT", cursive;
+    font-family:"Pacifico", cursive;
     text-align: center;
 }
 .text {
     width: 350px;
     font-size: 50px;
     left: -140px;
-    top: 100px;
-    z-index: -1;
+    top: 350px;
+    z-index: -2;
     transition: 0.3s;
     opacity: 0;
 }
